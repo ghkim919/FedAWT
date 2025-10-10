@@ -4,7 +4,7 @@ The structure of this repository is as follows.
 - simulation: Simulation Code (The integrated execution code version preparation in progress)
 - data: Collection of results data used in the paper(train acc, loss, drop date). Additional data will be uploaded later.
 
-# 시뮬레이션 요구사항
+# Simulation Requirements
 - python : 3.9
 - tensorflow : 2.11
 
