@@ -1,0 +1,12 @@
+{
+    "total_rounds" : 500,
+    "number_of_clients" : 500,
+    "maximum_epoch" : 5,
+    "batch_size" : 32,
+    "learning_rate" : 0.001,
+    "selection_ratio" : 0.2,
+    "max_level" : 3,
+    "level_list" : [[2.5, 1.0], [1.75, 1.75], [1.0, 2.5]],
+    "base_path" : "./result",
+    "clients_competition" : [1, 2, 3]
+}
